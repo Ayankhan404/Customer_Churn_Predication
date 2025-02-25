@@ -70,7 +70,6 @@ git clone https://github.com/yourusername/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 
-```
 2. Use the saved model to make predictions on new customer data.
 
 ## Results
